@@ -10,7 +10,7 @@ http://checkboard-flashingcolors.surge.sh/
 Completed 4 boards in few hours. 
 
 ## Skills Learned: 
-HTML, JavaScript, and Surge to deploy.
+HTML, JavaScript, DOM Manipulation, and Surge to deploy.
 
 ### Checkerboard
 
