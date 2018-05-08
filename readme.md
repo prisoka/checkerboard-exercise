@@ -11,12 +11,12 @@ http://checkboard-flashingcolors.surge.sh/
 This is a DOM manipulation challenge, of week 3, at Galvanize Web Dev Immersive.
 
 ## Time:
-Completed in a day. 
+Completed in few hours. 
 
 ## Skills Learned: 
 HTML, JavaScript, DOM Manipulation, and Surge to deploy.
 
-### Checkerboard
+## The exercise: Checkerboard
 
 On the master branch, write code to generate a checkboard pattern as seen below:
 
