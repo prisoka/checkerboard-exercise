@@ -6,8 +6,12 @@ http://checkboard-randomcolors.surge.sh/ <br />
 http://checkboard-gradient.surge.sh/ <br />
 http://checkboard-flashingcolors.surge.sh/
 
+## What are you looking at? 
+
+This is a DOM manipulation challenge, of week 3, at Galvanize Web Dev Immersive.
+
 ## Time:
-Completed 4 boards in few hours. 
+Completed in a day. 
 
 ## Skills Learned: 
 HTML, JavaScript, DOM Manipulation, and Surge to deploy.
