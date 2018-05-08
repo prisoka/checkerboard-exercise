@@ -1,9 +1,18 @@
 # DOM Manipulation Exercise
 
-As always, fork and clone this repo.  Submit the link to your fork when you're done.
+## Deployed URLs: 
+http://checkboard-black-red.surge.sh/
+http://checkboard-randomcolors.surge.sh/
+http://checkboard-gradient.surge.sh/
+http://checkboard-flashingcolors.surge.sh/
+
+## Time:
+Completed 4 boards in few hours. 
+
+## Skills Learned: 
+HTML, JavaScript, and Surge to deploy.
 
 ### Checkerboard
-
 
 On the master branch, write code to generate a checkboard pattern as seen below:
 
