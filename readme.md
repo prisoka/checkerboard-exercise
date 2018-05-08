@@ -1,9 +1,9 @@
 # DOM Manipulation Exercise
 
 ## Deployed URLs: 
-http://checkboard-black-red.surge.sh/
-http://checkboard-randomcolors.surge.sh/
-http://checkboard-gradient.surge.sh/
+http://checkboard-black-red.surge.sh/ <br />
+http://checkboard-randomcolors.surge.sh/ <br />
+http://checkboard-gradient.surge.sh/ <br />
 http://checkboard-flashingcolors.surge.sh/
 
 ## Time:
